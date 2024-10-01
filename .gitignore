@@ -1,0 +1,5 @@
+# chromediver 제외
+chromedriver-win64
+# ipynb checkpoint
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
