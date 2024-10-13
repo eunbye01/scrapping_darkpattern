@@ -21,7 +21,7 @@ cf) [참고 블로그](https://velog.io/@jisubin12/Github-%EC%99%B8%EB%B6%80%EC%
   merge할 브랜치로 변경한 다음, 원본 저장소의 변경사항을 로컬 브랜치에 merge 한다.
   ```
   $ git checkout main
-  $ git merge upstream/main
+  $ git merge upstream/develop(원하는 브랜치 이름)
   ```
 
   내 로컬 저장소(fork한 저장소)에 merge한 내용을 반영해준다.
