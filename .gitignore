@@ -3,3 +3,5 @@ chromedriver-win64
 # ipynb checkpoint
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+/.tmp.driveupload/
+/.tmp.drivedownload/
