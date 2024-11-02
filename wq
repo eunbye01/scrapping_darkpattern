@@ -1,0 +1,349 @@
+[33mcommit e86e07d8906e1b44b578b1511612bffe286e15ed[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Nov 2 19:42:06 2024 +0900
+
+    Scrapper 수정
+
+[33mcommit ad0d34da4230aac7404a0c56af210924f7553b72[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Nov 2 17:39:28 2024 +0900
+
+    Scrapper 오류 수정
+
+[33mcommit fac34ab4b8eb8083b92122b9017d12438727fff2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Nov 2 14:07:25 2024 +0900
+
+    gitignore 수정
+
+[33mcommit 9e46006bd25f3d43b719dd62b763f3c40c208dd8[m[33m ([m[1;31mupstream/develop[m[33m)[m
+Merge: 4101ebf b867c33
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Nov 2 14:01:41 2024 +0900
+
+    Merge pull request #21 from ajou-paran-guardian/waaterr1208-patch-2
+    
+    directory 정리
+
+[33mcommit b867c3374294ee77f403aa4faddb8532886797d5[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Nov 2 14:00:59 2024 +0900
+
+    Rename text_scrapper.ipynb to old/text_scrapper.ipynb
+
+[33mcommit a4ea3b76985bbde4727251e75803fdcd7327dfcf[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Nov 2 14:00:40 2024 +0900
+
+    Rename false_judge_scrapper.ipynb to old/false_judge_scrapper.ipynb
+
+[33mcommit effff03dff097766303d59ded3e87d2d3938c1a2[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Nov 2 13:59:47 2024 +0900
+
+    Rename selenium_text_scrapper.ipynb to old/selenium_text_scrapper.ipynb
+
+[33mcommit 4101ebf375abb0edad16e16002008cbff0bc867f[m
+Merge: bf0af2a ce7af1b
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Nov 2 13:58:45 2024 +0900
+
+    Merge pull request #20 from ajou-paran-guardian/waaterr1208-patch-1
+    
+    Delete data1005.json
+
+[33mcommit ce7af1b7c1ecddbb4270413941be5a2b21cd3017[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Nov 2 13:57:58 2024 +0900
+
+    Delete data1005.json
+
+[33mcommit bf0af2aad1464d8a6113197d828d2ea0ac30759a[m
+Merge: e175833 9cea432
+Author: yun2h <128955861+yun2h@users.noreply.github.com>
+Date:   Wed Oct 30 23:50:06 2024 +0900
+
+    Merge pull request #18 from yun2h/develop
+    
+    add false+text scrapper
+
+[33mcommit 9cea4323da218ac3fe500d29ce1a64df293cee4b[m
+Author: YunHee_OSS <dbsgmldl02@ajou.ac.kr>
+Date:   Wed Oct 30 23:48:35 2024 +0900
+
+    add false+text scrapper
+
+[33mcommit e175833266fa4f2a7fb3784b3c08b23724fb791c[m
+Merge: fd470fb 8b855c7
+Author: yun2h <128955861+yun2h@users.noreply.github.com>
+Date:   Thu Oct 17 17:18:07 2024 +0900
+
+    Merge pull request #17 from yun2h/develop
+    
+    공백 오류 수정
+
+[33mcommit 8b855c7ad122e5fbec9fcaf3448e1f54adcbf957[m
+Author: YunHee_OSS <dbsgmldl02@ajou.ac.kr>
+Date:   Thu Oct 17 17:15:48 2024 +0900
+
+    공백 오류 수정
+
+[33mcommit fd470fb5cf1adf983cbfa8cdf3071a40e49b9bd4[m[33m ([m[1;32mdevelop[m[33m)[m
+Merge: dc80894 b942509
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Wed Oct 16 15:06:39 2024 +0900
+
+    Merge pull request #15 from ajou-paran-guardian/waaterr1208-patch-1
+    
+    공유 링크 업데이트
+
+[33mcommit b9425093188e9beb2af151d7beddf636ca7d4f80[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Wed Oct 16 15:06:27 2024 +0900
+
+    공유 링크 업데이트
+
+[33mcommit dc8089493038d846e60c646a88c7432bf26e93fd[m
+Merge: 7db1f0f fbf9ed2
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Tue Oct 15 22:42:20 2024 +0900
+
+    텍스트 스크래퍼 수정, 라벨링 도구 제작
+    
+    텍스트 스크래퍼 수정, 라벨링 도구 제작
+
+[33mcommit fbf9ed2e9e0c898cbd5575d6c11b34ad90745ec6[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Tue Oct 15 22:40:19 2024 +0900
+
+    라벨링 도구 제작
+
+[33mcommit dc134920a3a54cbc84c811df01d365217c8362d4[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Tue Oct 15 22:36:56 2024 +0900
+
+    텍스트 스크래퍼 수정
+    
+    * json으로 결과값 출력 보완
+    * class 이름으로 css 추출보완
+
+[33mcommit 7db1f0f9f1fa5c176210f5d3ed12b7d366256660[m
+Merge: f3d4695 cc92a7e
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sun Oct 13 23:43:48 2024 +0900
+
+    Merge pull request #13 from waaterr1208/main
+    
+    키워드 스크래퍼 수정
+
+[33mcommit cc92a7e80dff324075b0d7e92b1c06d4fe446806[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sun Oct 13 23:40:17 2024 +0900
+
+    키워드 스크래퍼 수정
+
+[33mcommit f3d4695caeaebf8a431dc2d7b2221bb554a835c6[m
+Merge: 38f39d3 c7f2076
+Author: yun2h <128955861+yun2h@users.noreply.github.com>
+Date:   Sun Oct 13 21:23:38 2024 +0900
+
+    Merge pull request #12 from yun2h/develop
+    
+    거짓판별 결과 출력 기능 추가
+
+[33mcommit c7f20769f67cd5e4e83a6093406b334df39766d8[m
+Merge: 45f7403 38f39d3
+Author: YunHee_OSS <dbsgmldl02@ajou.ac.kr>
+Date:   Sun Oct 13 21:21:56 2024 +0900
+
+    Merge remote-tracking branch 'upstream/develop' into develop
+
+[33mcommit 45f7403cc7ec22fb27194a36786b2a1abf20b4aa[m
+Author: yun2h <128955861+yun2h@users.noreply.github.com>
+Date:   Sun Oct 13 21:19:21 2024 +0900
+
+    Delete .ipynb_checkpoints directory
+
+[33mcommit 5b827d9e5415354e896764df75dd3905f4c82b1f[m
+Author: YunHee_OSS <dbsgmldl02@ajou.ac.kr>
+Date:   Sun Oct 13 20:55:42 2024 +0900
+
+    거짓판별 결과 출력 기능 추가
+
+[33mcommit 38f39d33e7ffd36124fa1df1224e7d47589035e8[m
+Merge: 90e8511 5a204fe
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Oct 12 23:17:54 2024 +0900
+
+    Merge pull request #10 from ajou-paran-guardian/main
+    
+    Main
+
+[33mcommit 5a204fe78477c17c8c9d79a07a1d004c615e88cb[m[33m ([m[1;31mupstream/main[m[33m)[m
+Merge: a7569f1 cb3d354
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Oct 12 23:15:12 2024 +0900
+
+    Merge pull request #9 from waaterr1208/main
+    
+    directory 정리
+
+[33mcommit cb3d354b2b9766c0b6bc94b8d8c23b43124f847e[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Oct 12 22:58:00 2024 +0900
+
+    directory 정리
+
+[33mcommit a7569f111dcaf332e1723d744d3ce2f3dbd1807c[m
+Merge: 67e2ee6 90e8511
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Oct 5 23:43:14 2024 +0900
+
+    Merge pull request #8 from ajou-paran-guardian/develop
+    
+    main으로 이동
+
+[33mcommit 90e8511a938a644e9d9941c6cf863a06f5fd689c[m
+Merge: 64efd83 007dadf
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Oct 5 23:39:42 2024 +0900
+
+    Merge pull request #7 from waaterr1208/main
+    
+    로딩 시간 수정
+
+[33mcommit 007dadf8dcbd98ae1053ab2473465dfff794ce44[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Oct 5 23:37:54 2024 +0900
+
+    스크래퍼 약간 수정
+
+[33mcommit 0b85f04dc94ccfb096a5582feaf50c5132cdd594[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Oct 5 20:38:20 2024 +0900
+
+    Update git_rule_setting.md
+
+[33mcommit 64efd83fa8422a138b862c471c5f789aedce0f6d[m
+Merge: a28f905 370a108
+Author: yun2h <128955861+yun2h@users.noreply.github.com>
+Date:   Sat Oct 5 18:19:58 2024 +0900
+
+    Merge pull request #6 from yun2h/develop
+    
+    거짓판단 스크래퍼
+
+[33mcommit 370a1081e849e2164a7308469c2be3d12f8019be[m
+Author: YunHee_OSS <dbsgmldl02@ajou.ac.kr>
+Date:   Sat Oct 5 17:46:16 2024 +0900
+
+    거짓판단 스크래퍼
+
+[33mcommit a28f9051a14241ca82af5ca06341e1c56cc03861[m
+Merge: 014a290 d0348c6
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Tue Oct 1 23:49:04 2024 +0900
+
+    Merge pull request #5 from waaterr1208/main
+    
+    스크래퍼 코드 업데이트
+
+[33mcommit d0348c624a9679d6ddd9d8a112a4dd28677a5bf1[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Tue Oct 1 23:45:49 2024 +0900
+
+    스크래퍼 코드 업데이트
+
+[33mcommit 014a290dc8df9441f905602fad5142211bf869c4[m
+Merge: 782d6db bb603c9
+Author: yun2h <128955861+yun2h@users.noreply.github.com>
+Date:   Sat Sep 28 22:40:52 2024 +0900
+
+    Merge pull request #4 from ajou-paran-guardian/yun2h-patch-1
+    
+    Delete test.xlsx
+
+[33mcommit bb603c9199f8e1243bc7ca6353a52b7507513100[m[33m ([m[1;31mupstream/yun2h-patch-1[m[33m)[m
+Author: yun2h <128955861+yun2h@users.noreply.github.com>
+Date:   Sat Sep 28 22:40:36 2024 +0900
+
+    Delete test.xlsx
+
+[33mcommit 782d6db33d1a7c7b8e0f43ec1b9df55eb0a9198b[m
+Merge: 5bf564f 2b6c673
+Author: yun2h <128955861+yun2h@users.noreply.github.com>
+Date:   Sat Sep 28 22:39:31 2024 +0900
+
+    Merge pull request #3 from yun2h/develop
+    
+    CSV 불러오기, 저장 추가
+
+[33mcommit 2b6c673a761d8384a108729ddc4a94a518ad9441[m
+Author: YunHee_OSS <dbsgmldl02@ajou.ac.kr>
+Date:   Sat Sep 28 22:34:57 2024 +0900
+
+    CSV 불러오기, 저장 추가
+
+[33mcommit 5bf564faa5647205aa62e0e9ada8ebf11021528c[m
+Merge: 109ce6c 6556753
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Sep 28 18:17:59 2024 +0900
+
+    Merge pull request #2 from waaterr1208/main
+    
+    Selenium을 사용한 스크래퍼 update
+
+[33mcommit 65567534f2822d367d61d3184ef742859aeb7347[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Sat Sep 28 18:14:25 2024 +0900
+
+    Selenium을 사용한 스크래퍼
+
+[33mcommit 0b3f1e1c6c9da558eb2619a245a98fc6bc23a049[m
+Merge: c30b6b6 67e2ee6
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Thu Sep 26 18:53:02 2024 +0900
+
+    Merge remote-tracking branch 'upstream/main'
+
+[33mcommit 67e2ee655222fe65bbc0df75a08dd24ce8bf94ca[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Thu Sep 26 18:51:49 2024 +0900
+
+    Update git_rule_setting.md
+
+[33mcommit 7099cdbe14b228d66fd165ee07207fcdc24cfa89[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Thu Sep 26 18:45:04 2024 +0900
+
+    Create git_rule_setting.md
+    
+    깃허브 룰 세팅
+    초보자를 위한 깃허브 사용법
+
+[33mcommit 109ce6cad5caaab798fc625eb948e2d7288fe6ce[m
+Merge: c9b21a6 c30b6b6
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Thu Sep 26 18:12:38 2024 +0900
+
+    Merge pull request #1 from waaterr1208/main
+    
+    텍스트 기반 스크래퍼 생성
+
+[33mcommit c30b6b656f2c57bea60138292b3f5acd679682d7[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Thu Sep 26 18:05:08 2024 +0900
+
+    output clear
+
+[33mcommit cc6c3993c268db50a073d60dcbe414194059ce03[m
+Author: waaterr1208 <waaterr0516@gmail.com>
+Date:   Thu Sep 26 18:01:09 2024 +0900
+
+    text_scrapper 생성
+
+[33mcommit c9b21a61dae049e093bc00c67f8ba8594d32f978[m
+Author: waaterr1208 <133969638+waaterr1208@users.noreply.github.com>
+Date:   Wed Sep 25 22:32:56 2024 +0900
+
+    Initial commit
